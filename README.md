@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages TEST
+## Le ROI - "THE RETURN ON INVESTMENT"
 
+### The beginnings of a machine learning algorithm designed to know when a cryto currency is ##"ON SALE".
 You can use the [editor on GitHub](https://github.com/djporterco/leroi.cc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
