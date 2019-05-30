@@ -1,6 +1,6 @@
 ## Le ROI - "THE RETURN ON INVESTMENT"
 
-### The beginnings of a machine learning algorithm designed to know when a cryto currency is ##"ON SALE".
+### The beginnings of a machine learning algorithm designed to know when a cryto currency is "ON SALE".
 
 **Buy** _low_ and **sell**  _high_. That's how it's done! Right? Or at least it's supposed to be. 
 
